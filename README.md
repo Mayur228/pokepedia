@@ -1,4 +1,4 @@
-#🌟 Pokepedia: Your Pokémon Encyclopedia Adventure! 🌟
+##🌟 Pokepedia: Your Pokémon Encyclopedia Adventure! 🌟
 
 Welcome to Pokepedia, the ultimate destination for Pokémon enthusiasts! 🎉 With a blend of sleek design, powerful technology, and comprehensive features, Pokepedia is your passport to the exciting world of Pokémon! 🚀
 
